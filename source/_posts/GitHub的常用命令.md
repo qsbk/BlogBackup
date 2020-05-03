@@ -1,10 +1,11 @@
 ---
 title: GitHub的常用命令
-date: 2018-8-19 12:02:09
 tags:
-	- GitHub
-	- 笔记
+  - GitHub
+  - 笔记
 toc: true
+abbrlink: 44100
+date: 2018-08-19 12:02:09
 ---
 
 # GitHub的常用命令
