@@ -10,11 +10,11 @@ abbrlink: 59763
 date: 2020-04-11 14:49:36
 ---
 
-# 1. 前言
+## 1. 前言
 
 因为我也是第一次接触hook，所以有错误还望斧正。<!--more-->
 
-# 2. Linux Proc文件系统
+## 2. Linux Proc文件系统
 
 Android系统是基于**Linux**的，因此在内存管理方面很多机制都和Linux相似，和Linux相同，Android提供了基于/proc的**"伪文件"系统**作为查看用户进程内存映像接口(cat /proc/pid/maps)。因此，了解Linux Proc文件系统显得尤为重要。
 
