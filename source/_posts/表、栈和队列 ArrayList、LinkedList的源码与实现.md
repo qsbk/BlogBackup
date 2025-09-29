@@ -8,7 +8,7 @@ tags:
 	- 练习
 ---
 
-## 1.1 抽象数据类型
+## 1.1 抽象数据类型1
 
 > **抽象数据类型**（**A**bstract **D**ata **T**ype，**ADT**）是[计算机科学](https://zh.wikipedia.org/wiki/计算机科学)中具有类似行为的特定类别的[数据结构](https://zh.wikipedia.org/wiki/数据结构)的[数学模型](https://zh.wikipedia.org/wiki/数学模型)；或者具有类似语义的一种或多种[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言)的[数据类型](https://zh.wikipedia.org/wiki/數據類型)。抽象数据类型是间接定义的，通过其上的可执行的操作以及这些操作的效果的数学约束（与可能的代价）。<!--more-->
 >
